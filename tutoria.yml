@@ -1,0 +1,8 @@
+1. criar a aplicacao react
+
+npx create-react-app .
+
+pasta src: aqui tem o codigo da aplicacao. Arquivos importantes: App.css e App.js
+
+2. para rodar: npm start
+
