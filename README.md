@@ -1,3 +1,7 @@
+[![Made with React](https://img.shields.io/badge/React->=18.2.0-blue?logo=python&logoColor=white)](https://pt-br.react.dev/ "Go to React homepage")
+[![dependency - django==4.0.5](https://img.shields.io/badge/dependency-django==4.0.5-blue)](https://www.djangoproject.com/ "Go to Django homepage")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
